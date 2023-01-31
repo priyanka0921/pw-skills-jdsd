@@ -7,9 +7,12 @@ class Guesser {
   int guessNum;
 
   int guessingNumber() {
-    System.out.print("Guesser! Kindly guess the number : ");
+    System.out.print("Guesser! Kindly guess s number between 0 to 100 : ");
     Scanner sc = new Scanner(System.in);
     guessNum = sc.nextInt();
+    if(guessNum >100 ){
+        System.out.println("Number is greater than 100 I");
+    }
     return guessNum;
   }
 }
