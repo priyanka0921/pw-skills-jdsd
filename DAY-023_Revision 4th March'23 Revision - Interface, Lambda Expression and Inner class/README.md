@@ -1,1 +1,0 @@
-# No Resourse Shared Today
