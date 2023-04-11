@@ -9,8 +9,5 @@ public class P_02 {
         System.out.println(date.getMonth());
         LocalTime time = LocalTime.now();
         System.out.println(time);
-
-
-
     }
 }
