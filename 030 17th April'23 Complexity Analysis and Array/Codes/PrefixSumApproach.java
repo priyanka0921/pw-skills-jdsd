@@ -1,10 +1,7 @@
-import java.util.*;
-import java.io.*;
-
-
-
 // time complexity : O(m * n)
 // space complexity: O(1)
+import java.util.*;
+
 public class PrefixSumApproach {
 
     // time complexity : O(m * n)
