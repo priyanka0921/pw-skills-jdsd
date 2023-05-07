@@ -48,11 +48,12 @@ public class SqureRoot {
 }
 /*
 Output 1 : Testcase 1
+---------------------
 Enter the number : 16
 Squre Root of 17 is 4
-*/
-/*
+
 Output 1 : Testcase 2
+---------------------
 Enter the number : 12
 Squre Root of 16 is 3
 */
