@@ -4,6 +4,10 @@ Time Complexity : O(n^2)
 Space Complexity : O(1)
 */
 
+/*
+ * 1. At every iteration we get largest element in extream right.
+ */
+
 import java.util.Arrays;
 
 public class BubbleSort {
@@ -33,7 +37,6 @@ public class BubbleSort {
     System.out.println("Sorted Array : " + Arrays.toString(arr));
   }
 }
-
 /*
 Output :
 Sorted Array : [10, 12, 20, 45, 50, 67, 90]

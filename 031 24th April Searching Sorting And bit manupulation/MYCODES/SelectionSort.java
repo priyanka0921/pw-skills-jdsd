@@ -3,6 +3,9 @@ Selection Sort :
 Time Complexity : O(n^2)
 Space Complexity : O(1)
 */
+/*
+ * 1. At every iteration we get smaller element in extream left.
+ */
 
 import java.util.Arrays;
 
